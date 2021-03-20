@@ -9,7 +9,7 @@ flask-restplus==0.13.0
 httpie==2.2.0
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jsonschema==3.2.0
 MarkupSafe==1.1.1
 peewee==3.13.3
