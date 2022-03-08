@@ -6,7 +6,7 @@ click==7.1.2
 colorama==0.4.3
 Flask==1.1.2
 flask-restplus==0.13.0
-httpie==2.2.0
+httpie==3.1.0
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
